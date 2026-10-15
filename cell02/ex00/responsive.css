@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 50%;
+    border: 1px solid black;
+}
+
+.channel1 {
+    background-color: yellowgreen;
+}
+
+.channel2 {
+    background-color: salmon;
+}
